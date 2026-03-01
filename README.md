@@ -103,9 +103,8 @@ Transitioning enterprise systems toward:
 
 ## 🌍 Let's Connect
 
-- LinkedIn: <your-link>
-- Portfolio: <your-link>
-- Email: shparmeen@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/parveen-shaikh
+- 📧 Email: shparmeen@gmail.com
 
 ---
 

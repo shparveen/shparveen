@@ -1,103 +1,37 @@
-# 👋 Hi, I'm Parveen Shaikh
+<h1 align="center">Hi 👋, I'm Parveen Shaikh</h1>
+<h3 align="center">AI-Enabled Software Engineer | System Architect | AI-Assisted Development Leader</h3>
 
-🚀 AI-Enabled Software Engineer | Backend Architect | AI-Assisted Development Advocate  
-
-With 14+ years of experience in software development, I specialize in building scalable backend systems and leveraging AI-assisted engineering practices to accelerate delivery, improve code quality, and modernize enterprise applications.
+<p align="center">
+Building scalable systems • Integrating AI into real-world engineering • Transforming development productivity
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- ✅ 14+ years in Software Development & System Delivery
-- ✅ Experienced in PHP, Django, Next.js & Enterprise Platforms
-- ✅ Actively transitioning into **AI Engineering & Intelligent System Design**
-- ✅ Strong advocate of AI-assisted development using GitHub Copilot
-- ✅ Focused on Architecture, Automation & Engineering Productivity
+Senior Software Engineer with **14+ years of enterprise development experience**, currently evolving toward **Applied AI Engineering and Intelligent System Architecture**.
 
-I believe AI will not replace engineers — it will empower engineers to build smarter and faster systems.
+I specialize in combining **software engineering expertise with AI-assisted development** to accelerate delivery, modernize legacy platforms, and improve engineering efficiency at scale.
 
----
+✔ Backend & Platform Engineering  
+✔ AI-Assisted Development & Automation  
+✔ System Design & Architecture Thinking  
+✔ Engineering Productivity Optimization  
 
-## ⚡ Current Focus
-
-- AI-powered application development
-- LLM integration & workflow automation
-- AI-assisted modernization of legacy systems
-- Developer productivity enhancement using AI
-- System architecture & scalable backend design
+> *AI doesn't replace engineers — it elevates engineers into solution architects.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Current Engineering Focus
 
-### Backend
-- PHP | Python | Django | FastAPI
-- REST APIs | Microservices
-
-### Frontend
-- Next.js | React | HTML | CSS
-
-### AI & Automation
-- GitHub Copilot
-- Prompt Engineering
-- LLM Integration
-- AI-assisted Development Workflows
-
-### Cloud & DevOps
-- AWS
-- Docker (Learning)
-- CI/CD
-- Production Deployment
+- 🤖 AI-powered application development
+- 🧩 LLM integration into enterprise systems
+- ⚙️ AI-assisted modernization of legacy platforms
+- 📈 Developer productivity acceleration using AI
+- ☁️ Scalable backend & cloud-native architecture
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technology Stack
 
-### 🔹 SWIM – AI-Assisted Upgrade Management Platform
-- Built prototype using **Next.js & Django**
-- Leveraged GitHub Copilot for rapid development
-- Implemented step-based upgrade workflow UI
-- Improved usability and modernization
-
----
-
-### 🔹 AI Documentation Generator
-- Automated class & function documentation
-- Generated structured HTML documentation
-- Reduced manual documentation effort
-
----
-
-### 🔹 AI UI Modernization Initiative
-- Redesigned legacy UI using AI-assisted prompting
-- Improved user accessibility & workflow clarity
-
----
-
-## 📈 What I’m Learning Now
-
-- Applied AI Engineering
-- RAG Architecture
-- Vector Databases
-- AI System Design
-- Cloud-based AI Deployment
-
----
-
-## 🎯 Career Vision
-
-Transitioning toward:
-**AI Engineer → AI Solutions Architect → AI Engineering Leader**
-
-Focused on building intelligent systems that combine engineering excellence with AI-driven innovation.
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn:https://www.linkedin.com/parveen-shaikh
-- 📧 Email: shparmeen@gmail.com
-
----
-
-⭐ *“Technology evolves continuously — and engineers must evolve even faster.”*
+### 👨‍💻 Backend & Platforms

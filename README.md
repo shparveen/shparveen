@@ -1,89 +1,124 @@
-<h1 align="center">Hi 👋, I'm Parveen Shaikh</h1>
-<h3 align="center">AI-Enabled Software Engineer | System Architect | AI-Assisted Development Leader</h3>
+<h1 align="center">🚀 Parveen Shaikh</h1>
+
+<h3 align="center">
+AI Engineer in Transition | Backend Architect | AI-Assisted Development Leader
+</h3>
 
 <p align="center">
-Building scalable systems • Integrating AI into real-world engineering • Transforming development productivity
+Transforming Software Engineering using AI • Building Scalable Intelligent Systems
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-Senior Software Engineer with **14+ years of enterprise development experience**, currently evolving toward **Applied AI Engineering and Intelligent System Architecture**.
+Senior Software Engineer with **14+ years of experience** designing and delivering enterprise-grade applications.
 
-I specialize in combining **software engineering expertise with AI-assisted development** to accelerate delivery, modernize legacy platforms, and improve engineering efficiency at scale.
+Currently focused on evolving toward **Applied AI Engineering & Intelligent System Architecture**, leveraging AI-assisted development to accelerate engineering productivity and modernize platforms.
 
-✔ Backend & Platform Engineering  
-✔ AI-Assisted Development & Automation  
-✔ System Design & Architecture Thinking  
-✔ Engineering Productivity Optimization  
+🔹 Enterprise Backend Engineering  
+🔹 AI-Driven Development Workflows  
+🔹 System Architecture & Scalability  
+🔹 Engineering Productivity Optimization  
 
+> *The future engineer is not the one who writes more code — but the one who designs smarter systems.*
 
-## 🚀 Current Engineering Focus
+---
 
-- 🤖 AI-powered application development
-- 🧩 LLM integration into enterprise systems
-- ⚙️ AI-assisted modernization of legacy platforms
-- 📈 Developer productivity acceleration using AI
-- ☁️ Scalable backend & cloud-native architecture
+## 🧠 AI Engineering Focus
 
-## 🛠️ Technology Stack
+✅ LLM-powered applications  
+✅ AI-assisted modernization  
+✅ Intelligent workflow automation  
+✅ Developer productivity platforms  
+✅ Enterprise AI integration  
 
-### 👨‍💻 Backend & Platforms
-PHP • Python • Django • FastAPI • REST APIs • Microservices
+---
 
-### 🤖 AI Engineering
-LLM Integration • Prompt Engineering • RAG Architecture (Learning)
-GitHub Copilot • AI Workflow Automation
+## ⚙️ Tech Stack
 
-### 🌐 Frontend
-Next.js • React • Modern UI Development
+### Backend & Platforms
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
-### ☁️ Cloud & DevOps
-AWS • Docker (Learning) • CI/CD • Production Deployment
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/LLM-Integration-blue?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/AI-Assisted%20Development-black?style=for-the-badge)
 
-## 🔥 Featured AI Projects
+### Frontend
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
-### 🚀 AI-Assisted Service Management Platform
-- Built using **Next.js + Django**
-- Leveraged GitHub Copilot for accelerated development
-- Designed step-based upgrade workflow UI
-- Improved usability & deployment visibility
-- 
-### 🤖 AI Documentation Automation
-- Automated class & function documentation
-- Generated structured HTML technical documentation
-- Reduced manual engineering effort significantly
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
-My focus is shifting engineering effort from manual coding toward:
+---
 
-✅ Architecture  
-✅ Automation  
-✅ Intelligent System Design  
-✅ Scalable Innovation  
+## 🚀 Featured AI Projects
 
-## 📈 Currently Learning & Building
+### 🔹 SWIM – AI-Assisted Upgrade Management Platform
+- Built using Next.js & Django
+- AI-assisted rapid development using GitHub Copilot
+- Step-based upgrade workflow visualization
+- Improved operational usability
+
+---
+
+### 🤖 AI Documentation Generator
+- Automatic class & function documentation
+- HTML documentation generation
+- Reduced manual effort significantly
+
+---
+
+### 🧠 AI UI Modernization
+- Legacy UI redesign using AI prompting
+- Improved accessibility & workflow clarity
+
+---
+
+## 🏗️ Engineering Philosophy
+- Automate Repetition
+- Design for Scale
+- Deliver with Intelligence
+
+  
+AI enables engineers to move from **code execution → system orchestration**.
+
+---
+
+## 📈 Currently Learning
 
 - Applied AI Engineering
-- Retrieval-Augmented Generation (RAG)
+- RAG Architecture
 - Vector Databases
 - AI System Design
-- Cloud-based AI Deployment
+- Cloud-native AI deployment
 
-### 🧠 AI UI Modernization Initiative
-- Modernized legacy UI using AI-driven prompting
-- Improved accessibility & workflow clarity
-- Reduced dependency on dedicated UI/UX resources
+---
 
-## 📊 Engineering Philosophy
-Building intelligent platforms that combine **AI capability with production-grade engineering**.
+## 🎯 Career Direction
+Senior Engineer → Applied AI Engineer → AI Solutions Architect
+
+
+Focused on building **AI-powered scalable platforms** that deliver measurable business impact.
+
+---
 
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/parveen-shaikh
 - 📧 Email: shparmeen@gmail.com
 
+---
+
 <p align="center">
-⭐ Engineering the future with AI-assisted innovation ⭐
+⭐ Building the future of engineering through AI-driven innovation ⭐
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=<your-username>&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
 

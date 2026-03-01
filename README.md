@@ -18,9 +18,6 @@ I specialize in combining **software engineering expertise with AI-assisted deve
 ✔ System Design & Architecture Thinking  
 ✔ Engineering Productivity Optimization  
 
-> *AI doesn't replace engineers — it elevates engineers into solution architects.*
-
----
 
 ## 🚀 Current Engineering Focus
 
@@ -30,8 +27,63 @@ I specialize in combining **software engineering expertise with AI-assisted deve
 - 📈 Developer productivity acceleration using AI
 - ☁️ Scalable backend & cloud-native architecture
 
----
-
 ## 🛠️ Technology Stack
 
 ### 👨‍💻 Backend & Platforms
+PHP • Python • Django • FastAPI • REST APIs • Microservices
+
+### 🤖 AI Engineering
+LLM Integration • Prompt Engineering • RAG Architecture (Learning)
+GitHub Copilot • AI Workflow Automation
+
+### 🌐 Frontend
+Next.js • React • Modern UI Development
+
+### ☁️ Cloud & DevOps
+AWS • Docker (Learning) • CI/CD • Production Deployment
+
+## 🔥 Featured AI Projects
+
+### 🚀 AI-Assisted Service Management Platform
+- Built using **Next.js + Django**
+- Leveraged GitHub Copilot for accelerated development
+- Designed step-based upgrade workflow UI
+- Improved usability & deployment visibility
+- 
+### 🤖 AI Documentation Automation
+- Automated class & function documentation
+- Generated structured HTML technical documentation
+- Reduced manual engineering effort significantly
+
+My focus is shifting engineering effort from manual coding toward:
+
+✅ Architecture  
+✅ Automation  
+✅ Intelligent System Design  
+✅ Scalable Innovation  
+
+## 📈 Currently Learning & Building
+
+- Applied AI Engineering
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- AI System Design
+- Cloud-based AI Deployment
+
+### 🧠 AI UI Modernization Initiative
+- Modernized legacy UI using AI-driven prompting
+- Improved accessibility & workflow clarity
+- Reduced dependency on dedicated UI/UX resources
+
+## 📊 Engineering Philosophy
+Building intelligent platforms that combine **AI capability with production-grade engineering**.
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/parveen-shaikh
+- 📧 Email: shparmeen@gmail.com
+
+<p align="center">
+⭐ Engineering the future with AI-assisted innovation ⭐
+</p>
+
